@@ -8,3 +8,5 @@ etherscan.org to check all the transactions of your wallet.
 testnets -  for developers.
 used a sepolia testnet and transfered 0.1 eth from sepolia faucet to my wallet(test network spolia chain) pe.
 used sepolia etherscan to check the transaction hash, block details, gas etc. 
+
+pushingSd .
